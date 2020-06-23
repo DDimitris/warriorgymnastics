@@ -4,7 +4,7 @@
 title: Warrior Gymnastics
 description: Warriros Gymnastics provide a full nutrition plan as well as workout programs in order to achive your goals both in calisthenics and health.
 baseurl: "/warriorgymnastics" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ddimitris.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
